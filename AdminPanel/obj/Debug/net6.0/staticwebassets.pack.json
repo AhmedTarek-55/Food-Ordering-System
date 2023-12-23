@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdminPanel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminPanel.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\0d5d31ba-6bda-488c-85b8-ae64b66528b6-ProductDefaultImage.png",
+      "PackagePath": "staticwebassets\\images\\products\\0d5d31ba-6bda-488c-85b8-ae64b66528b6-ProductDefaultImage.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\3ceb430e-6588-4269-9a77-bf21a5e2c3ab-ProductDefaultImage.png",
+      "PackagePath": "staticwebassets\\images\\products\\3ceb430e-6588-4269-9a77-bf21a5e2c3ab-ProductDefaultImage.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\812fa996-881d-4605-b647-907e483012b5-ProductDefaultImage.png",
+      "PackagePath": "staticwebassets\\images\\products\\812fa996-881d-4605-b647-907e483012b5-ProductDefaultImage.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "PackagePath": "staticwebassets\\images\\products\\CheesyVegetableLasagna.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "PackagePath": "staticwebassets\\images\\products\\ChickenMarsala.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "PackagePath": "staticwebassets\\images\\products\\ChickenTeriyakiNoodles.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\ChickenTikkaMasala.png",
+      "PackagePath": "staticwebassets\\images\\products\\ChickenTikkaMasala.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\Congee.png",
+      "PackagePath": "staticwebassets\\images\\products\\Congee.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "PackagePath": "staticwebassets\\images\\products\\CreamyGochujangTortellini.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "PackagePath": "staticwebassets\\images\\products\\CrispyVegetablePakoras.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "PackagePath": "staticwebassets\\images\\products\\HaluskiNoodles.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "PackagePath": "staticwebassets\\images\\products\\HeartyVegetableLasagna.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "PackagePath": "staticwebassets\\images\\products\\ItalianChickenMarinade.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "PackagePath": "staticwebassets\\images\\products\\ItalianWeddingSoup.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\Kulfi.png",
+      "PackagePath": "staticwebassets\\images\\products\\Kulfi.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\PastaSalad.png",
+      "PackagePath": "staticwebassets\\images\\products\\PastaSalad.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\PepperPasta.png",
+      "PackagePath": "staticwebassets\\images\\products\\PepperPasta.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\ProductDefaultImage.png",
+      "PackagePath": "staticwebassets\\images\\products\\ProductDefaultImage.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "PackagePath": "staticwebassets\\images\\products\\ShrimpEggFooYoung.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\TandooriChicken.png",
+      "PackagePath": "staticwebassets\\images\\products\\TandooriChicken.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "PackagePath": "staticwebassets\\images\\products\\VegetarianKorma.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "PackagePath": "staticwebassets\\images\\products\\VegetarianRefriedBeans.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\images\\products\\b9c5f321-d953-46bd-84a4-f7ac04b99327-ProductDefaultImage.png",
+      "PackagePath": "staticwebassets\\images\\products\\b9c5f321-d953-46bd-84a4-f7ac04b99327-ProductDefaultImage.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Food Ordering\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AdminPanel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AdminPanel.props",
+      "PackagePath": "build\\AdminPanel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminPanel.props",
+      "PackagePath": "buildMultiTargeting\\AdminPanel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AdminPanel.props",
+      "PackagePath": "buildTransitive\\AdminPanel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

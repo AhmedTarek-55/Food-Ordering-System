@@ -1,0 +1,136 @@
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\bin\Debug\net6.0\Services.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\bin\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\bin\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\bin\Debug\net6.0\Infrastructure.dll
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\bin\Debug\net6.0\Infrastructure.pdb
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\refint\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\services\obj\Debug\net6.0\ref\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\bin\Debug\net6.0\Services.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\bin\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\bin\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\bin\Debug\net6.0\Infrastructure.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\bin\Debug\net6.0\Infrastructure.pdb
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\refint\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\services\obj\Debug\net6.0\ref\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\bin\Debug\net6.0\Services.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\bin\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\bin\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\bin\Debug\net6.0\Infrastructure.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\bin\Debug\net6.0\Infrastructure.pdb
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\refint\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\services\obj\Debug\net6.0\ref\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\bin\Debug\net6.0\Services.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\bin\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\bin\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\bin\Debug\net6.0\Infrastructure.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\bin\Debug\net6.0\Infrastructure.pdb
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\refint\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\services\obj\Debug\net6.0\ref\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\bin\Debug\net6.0\Services.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\bin\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\bin\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\bin\Debug\net6.0\Infrastructure.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\bin\Debug\net6.0\Infrastructure.pdb
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\refint\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\services\obj\Debug\net6.0\ref\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\bin\Debug\net6.0\Services.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\bin\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\bin\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\bin\Debug\net6.0\Infrastructure.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\bin\Debug\net6.0\Infrastructure.pdb
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\refint\Services.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\services\obj\Debug\net6.0\ref\Services.dll
+F:\ASP.NET Route Course\07 Web API\Demo\services\bin\Debug\net6.0\Services.deps.json
+F:\ASP.NET Route Course\07 Web API\Demo\services\bin\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Demo\services\bin\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Demo\services\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Demo\services\bin\Debug\net6.0\Infrastructure.dll
+F:\ASP.NET Route Course\07 Web API\Demo\services\bin\Debug\net6.0\Infrastructure.pdb
+F:\ASP.NET Route Course\07 Web API\Demo\services\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\refint\Services.dll
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\07 Web API\Demo\services\obj\Debug\net6.0\ref\Services.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\services\bin\Debug\net6.0\Services.deps.json
+F:\ASP.NET Route Course\Projects\Food Ordering\services\bin\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\services\bin\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\Projects\Food Ordering\services\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\services\bin\Debug\net6.0\Infrastructure.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\services\bin\Debug\net6.0\Infrastructure.pdb
+F:\ASP.NET Route Course\Projects\Food Ordering\services\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\Services.csproj.CopyComplete
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\Services.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\refint\Services.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\Services.pdb
+F:\ASP.NET Route Course\Projects\Food Ordering\services\obj\Debug\net6.0\ref\Services.dll

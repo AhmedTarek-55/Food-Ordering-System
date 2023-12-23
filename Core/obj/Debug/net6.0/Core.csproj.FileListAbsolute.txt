@@ -1,0 +1,96 @@
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 01\Session 01\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 02\Session 02\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 03\Session 03\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 04\Session 04\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 05\Session 05\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Session 06\Session 06\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\ASP.NET Route Course\07 Web API\Demo\Core\bin\Debug\net6.0\Core.deps.json
+F:\ASP.NET Route Course\07 Web API\Demo\Core\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Demo\Core\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\refint\Core.dll
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\07 Web API\Demo\Core\obj\Debug\net6.0\ref\Core.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\bin\Debug\net6.0\Core.deps.json
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\bin\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\bin\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\Core.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\refint\Core.dll
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\Core.pdb
+F:\ASP.NET Route Course\Projects\Food Ordering\Core\obj\Debug\net6.0\ref\Core.dll

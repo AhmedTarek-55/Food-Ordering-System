@@ -1,0 +1,16 @@
+﻿@model DeliveryMethodViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit @Model.ShortName</h1>
+<div class="container">
+    <form method="post" asp-action="Edit">
+        <input asp-for="Id" hidden />
+        <partial name="Partial Views/CreateEditPartialView" model="Model" />
+        <br />
+        <br />
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-light">Back To List</a>
+    </form>
+</div>

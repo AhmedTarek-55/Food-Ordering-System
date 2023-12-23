@@ -1,0 +1,20 @@
+﻿@model DeliveryMethodViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Add New Delivery Method</h1>
+<div class="container">
+    <form method="post" asp-action="Create">
+        <partial name="Partial Views/CreateEditPartialView" model="Model" />
+        <br />
+        <br />
+        <input type="submit" value="Add" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-light">Back To List</a>
+    </form>
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

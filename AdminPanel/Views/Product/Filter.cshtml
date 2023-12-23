@@ -1,0 +1,26 @@
+﻿@inject IUnitOfWork unitOfWork
+@{
+	var Types = new SelectList(unitOfWork.Repository<ProductType>().GetAllAsync().Result, "Id", "Name");
+	var Brands = new SelectList(unitOfWork.Repository<ProductBrand>().GetAllAsync().Result, "Id", "Name");
+}
+
+<h1>Filter Products</h1>
+
+<form asp-controller="Product" asp-action="Index" method="post">
+	<div class="row">
+		<div class="form-group p-3">
+			<select class="form-control" name="brandId" value="@Brands" asp-items="Brands">
+				<option>-- Select Brand --</option>
+			</select>
+		</div>
+		<div class="form-group p-3">
+			<select class="form-control" name="typeId" value="@Types" asp-items="Types">
+				<option>-- Select Type --</option>
+			</select>
+		</div>
+		<div class="col-sm-3 p-3">
+			<input type="submit" value="Show Results" class="btn btn-success btn-block" />
+			<a asp-action="Index" class="btn btn-light">Back To List</a>
+		</div>
+	</div>
+</form>

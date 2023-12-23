@@ -1,0 +1,19 @@
+﻿@model ProductBrandViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit @Model.Name Brand</h1>
+<hr />
+<form method="post" asp-action="Edit" class="mt-4">
+    <input asp-for="Id" class="form-control" hidden />
+    <div class="form-group m-2">
+        <label asp-for="Name" class="form-control"></label>
+        <input asp-for="Name" class="form-control" />
+       	<span asp-validation-for="Name" class="text-danger"></span>
+        <div class="form-control-plaintext text-center">
+            <button type="submit" class="btn btn-success m-2">Save</button>
+            <a class="btn btn-secondary m-2" asp-action="Index">Back To List</a>
+        </div>
+    </div>
+</form>
