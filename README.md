@@ -12,4 +12,4 @@ The project adheres to the Unit Of Work and Repository patterns to manage the da
 
 The project employs the specification pattern to enable the customers to search, filter, sort, and view food items from various categories.
 
-The project also offers features such as authentication and authorization with custom tokens, pagination, data seeding, data caching with Redis and a user-defined cache attribute, custom exception middleware, and online payment with stripe payment gateway.
+The project also offers features such as authentication and authorization with custom tokens, pagination, data seeding, data caching with Redis and a user-defined cache attribute, custom exception middleware, custom response handler, and online payment with stripe payment gateway.
